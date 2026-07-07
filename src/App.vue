@@ -1,9 +1,12 @@
-<script setup></script>
+<script setup>
+import NavigationBar from './components/NavigationBar.vue';
+
+</script>
 
 <template>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <div class="flex flex-col min-h-screen bg-primary">
+    <NavigationBar />
+  </div>
 </template>
 
 <style scoped></style>
