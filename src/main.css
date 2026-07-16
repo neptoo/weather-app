@@ -3,13 +3,12 @@
 @theme {
     /* green */
   /* --color-primary: #478484;
-  --color-secondary: #60a479; */
+  --color-secondary: #60a479;
+  --color-featured: #2f847c; */
   /* black */
   --color-primary: #34333c;
-  --color-secondary: #667179;
-  /* blue */
-  /* --color-primary: #00668A;
-  --color-secondary: #004E71; */
+  --color-secondary: #42414a;
+  --color-highlight: #2c2c2c;
 }
 
 @layer base {
